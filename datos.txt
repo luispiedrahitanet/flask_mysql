@@ -1,0 +1,11 @@
+https://www.youtube.com/watch?v=IgCfZkR8wME&list=PLo5lAe9kQrwpTzAbpFsCjwDb0ImeMypEa
+
+Instalaciones:
+pip install virtualenv 
+virtualenv proyflask	         # creamos el entorno virtual dentro de la carpeta del proyecto
+.\proyflask\Scripts\activate     # acivamos el entorno virtual
+deactivate                       # desactivar el entorno virtual
+
+
+pip install flask
+pip install flask-mysqldb
